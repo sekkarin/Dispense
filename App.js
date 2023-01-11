@@ -19,8 +19,8 @@ function HomeScreen() {
           style={styles.button}>
           <Text style={styles.text}>Sign in with Facebook</Text>
           <Text style={styles.text}>Edite fromn ken</Text>
-          <Text style={styles.text}>Sign in with Facebook</Text>
-          <Text style={styles.text}>Sign in with Facebook</Text>
+          <Text style={styles.text}>add frpm pat</Text>
+          <Text style={styles.text}>asdasdasdasd</Text>
         </LinearGradient>
       </View>
     </View>
