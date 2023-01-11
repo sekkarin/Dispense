@@ -18,6 +18,9 @@ function HomeScreen() {
           colors={['#4c669f', '#3b5998', '#192f6a']}
           style={styles.button}>
           <Text style={styles.text}>Sign in with Facebook</Text>
+          <Text style={styles.text}>Edite fromn ken</Text>
+          <Text style={styles.text}>Sign in with Facebook</Text>
+          <Text style={styles.text}>Sign in with Facebook</Text>
         </LinearGradient>
       </View>
     </View>
